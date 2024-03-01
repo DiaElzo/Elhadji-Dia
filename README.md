@@ -15,10 +15,6 @@ Je suis Elhadji Abdoul DIA, développeur web et admin systemes & réseaux
 -  Administration systemes & réseaux
 - Sécurite informatique
 
-## Mes projets récents
-
-- 🚀  - Description courte du projet
-
 ## Contactez-moi
 
 - 📧 Email : abdouldia923@gmail.com
